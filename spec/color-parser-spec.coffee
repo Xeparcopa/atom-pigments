@@ -1,6 +1,6 @@
 require './helpers/matchers'
 
-ColorParser = require '../lib/color-parser'
+ColorParser = require '../lib/color-parser
 ColorContext = require '../lib/color-context'
 ColorExpression = require '../lib/color-expression'
 registry = require '../lib/color-expressions'
